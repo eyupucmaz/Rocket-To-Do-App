@@ -1,0 +1,15 @@
+.todo__list {
+	width: 80vw;
+	/* background-color: aquamarine; */
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+.dlt-icon {
+	cursor: pointer;
+	color: cornflowerblue;
+	font-size: 2rem !important;
+}
+.dlt-icon:hover {
+	opacity: 0.7;
+}
