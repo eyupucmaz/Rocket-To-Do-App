@@ -1,9 +1,11 @@
 .todo__list {
 	width: 80vw;
-	/* background-color: aquamarine; */
+	background-color: #e7e4e46b;
 	display: flex;
 	justify-content: space-evenly;
 	align-items: center;
+	margin-bottom: 0.5rem !important;
+	border-radius: 0.2rem;
 }
 .dlt-icon {
 	cursor: pointer;

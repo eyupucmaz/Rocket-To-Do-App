@@ -12,3 +12,10 @@
 	/* background-color: blueviolet; */
 	padding: 0 !important;
 }
+
+.frm {
+	/* background-color: aquamarine; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

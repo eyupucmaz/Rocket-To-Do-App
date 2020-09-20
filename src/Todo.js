@@ -44,7 +44,7 @@ function Todo(props) {
 			<List className="todo__list">
 				<ListItem>
 					<ListItemText
-						primary={props.todo.todo}
+						primary={"🚀 " + props.todo.todo}
 						secondary={props.todo.timestamp}
 					/>
 				</ListItem>
